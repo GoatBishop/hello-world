@@ -1,2 +1,7 @@
-# hello-world
-my first repository
+# Self Introduction
+
+I am very happy to join GitHub's big family.
+This is my pleasure.
+Here is goat's house.
+
+OK ! I need a programing friends.
